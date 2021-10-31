@@ -489,7 +489,7 @@ void see(void)
 
 void close(void)
 {
-    printf("\n\n\n\nThis C Mini Project is developed by Code With C team!");
+    printf("\n\n\n\n");
     }
 
 
@@ -527,7 +527,7 @@ void menu(void)
 }
 int main()
 {
-    char pass[10],password[10]="codewithc";
+    char pass[10],password[10]="mycaptain";
     int i=0;
     printf("\n\n\t\tEnter the password to login:");
     scanf("%s",pass);
